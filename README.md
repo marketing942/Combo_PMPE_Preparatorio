@@ -23,7 +23,9 @@ Se a regra estiver presa a outro domínio/produto, precisa ser liberada aqui.
 ## Assets
 
 Reaproveitados do `comboPMPE`. O card do curso usa `everton-mota.jpg` com selo de play;
-a apostila usa a capa do Resumo Bizurado (`combo-resumo.webp`). Trocar se houver
+a apostila usa a capa do Resumo Bizurado (`combo-resumo.webp`). No hero, `everton-hero.webp`
+(Everton atrás dos tablets) vem de `mentoria-individual/public/everton-mota.jpg`, recortado
+e com degradê de transparência embutido nas bordas. Trocar se houver
 mockup próprio do curso.
 
 ## Checklist antes do disparo
